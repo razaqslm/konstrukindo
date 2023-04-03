@@ -12,7 +12,7 @@ const BreakingNews = () => {
                     <center>
                         <hr className="text-center break-line-tittle"/>
                     </center>
-                    <Card onClick={() => navigate('/detail-news')} className="w-100 shadow border-0 mt-5">
+                    <Card onClick={() => navigate('/konstrukindo/detail-news')} className="w-100 shadow border-0 mt-5">
                         <Card.Img variant="top" height="400px" className="cstm-card" src={imageDummy} />
                         <Card.Body>
                             <Card.Title className="ms-1 fw-bold title-news mb-3">New Product High Frequency Inverter ENAR Boxel</Card.Title>

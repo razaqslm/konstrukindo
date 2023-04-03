@@ -37,7 +37,7 @@ const SubProduk = () => {
                 <Col lg={9}>
                     <Row>
                         <Col>
-                            <Card onClick={() => navigate('/detail-produk')} className="align-items-center border-secondary-subtle shadow-sm me-4">
+                            <Card onClick={() => navigate('/konstrukindo/detail-produk')} className="align-items-center border-secondary-subtle shadow-sm me-4">
                                 <Card.Img variant="top" src={ctaImage1} style={{ width: '157px' }}/>
                                 <Card.Body>
                                     <Card.Title className="fw-bold title-product">ETR80H</Card.Title>
