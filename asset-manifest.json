@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/konstrukindo/static/css/main.a60fbe80.css",
-    "main.js": "/konstrukindo/static/js/main.ab18597a.js",
+    "main.js": "/konstrukindo/static/js/main.4b37182a.js",
     "static/js/787.21156244.chunk.js": "/konstrukindo/static/js/787.21156244.chunk.js",
     "static/media/banner-tentang-kami.png": "/konstrukindo/static/media/banner-tentang-kami.c4e667983b82fd62aac3.png",
     "static/media/img_carousel.png": "/konstrukindo/static/media/img_carousel.9519176e0c239ed48499.png",
@@ -24,11 +24,11 @@
     "static/media/revicons.woff": "/konstrukindo/static/media/revicons.e8746a624ed098489406.woff",
     "index.html": "/konstrukindo/index.html",
     "main.a60fbe80.css.map": "/konstrukindo/static/css/main.a60fbe80.css.map",
-    "main.ab18597a.js.map": "/konstrukindo/static/js/main.ab18597a.js.map",
+    "main.4b37182a.js.map": "/konstrukindo/static/js/main.4b37182a.js.map",
     "787.21156244.chunk.js.map": "/konstrukindo/static/js/787.21156244.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a60fbe80.css",
-    "static/js/main.ab18597a.js"
+    "static/js/main.4b37182a.js"
   ]
 }
