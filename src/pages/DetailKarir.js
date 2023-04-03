@@ -42,11 +42,11 @@ const DetailKarir = () => {
                                         <h2 className="fw-bold font-color">Sales Engineer</h2>
                                         <hr className="break-line-tittle"/>
                                         <p><b>Fresh Graduate</b></p>
-                                        <p>Pacarkembang, Surabaya</p>
+                                        <p>Pacarkembang, Surabayaa</p>
                                         <Button className="mt-2 p-2" size="sm" variant="primary">Daftar</Button>
                                         <p className="mt-5">Resume dapat dikirim melalui email ke <span className="font-color fw-bold">karir@konstrukindo.co.id</span>  dengan subject “<span className="font-color fw-bold"> SESurabaya_Nama </span>” atau dapat klik tombol “Daftar” diatas.</p>
                                     </Col>
-                                </Row>
+                                </Row> 
                             </Card.Body>
                         </Card>
                     </Col>
