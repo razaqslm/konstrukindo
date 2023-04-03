@@ -16,15 +16,15 @@ function App() {
   return (
     <Router>
       <Routes>
-        <Route path='/' element={<Home/>} />
-        <Route path='/tentang-kami' element={<TentangKami/>} />
-        <Route path='/produk' element={<Produk/>} />
-        <Route path='/detail-produk' element={<DetailProduk/>} />
-        <Route path='/news' element={<News/>} />
-        <Route path='/detail-news' element={<DetailNews/>} />
-        <Route path='/kontak' element={<Kontak/>} />
-        <Route path='/karir' element={<Karir/>} />
-        <Route path='/detail-karir' element={<DetailKarir/>} />
+        <Route path='/konstrukindo/' element={<Home/>} />
+        <Route path='/konstrukindo/tentang-kami' element={<TentangKami/>} />
+        <Route path='/konstrukindo/produk' element={<Produk/>} />
+        <Route path='/konstrukindo/detail-produk' element={<DetailProduk/>} />
+        <Route path='/konstrukindo/news' element={<News/>} />
+        <Route path='/konstrukindo/detail-news' element={<DetailNews/>} />
+        <Route path='/konstrukindo/kontak' element={<Kontak/>} />
+        <Route path='/konstrukindo/karir' element={<Karir/>} />
+        <Route path='/konstrukindo/detail-karir' element={<DetailKarir/>} />
         <Route path='*' element={<NotFound/>} />
       </Routes>
     </Router>
