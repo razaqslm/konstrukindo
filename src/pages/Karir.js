@@ -55,7 +55,7 @@ const Karir = () => {
                                         <p className="mb-0 p-1">Fresh Graduate</p>
                                     </Col>
                                     <Col className="d-flex align-items-center justify-content-center">
-                                        <Button onClick={() => navigate('/detail-karir')} variant="primary" size="lg">Lihat Detail</Button>
+                                        <Button onClick={() => navigate('/konstrukindo/detail-karir')} variant="primary" size="lg">Lihat Detail</Button>
                                     </Col>
                                 </Row>
                             </Card.Body>
